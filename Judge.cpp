@@ -18,9 +18,8 @@ string numToStr(int x, int y) {
     /*while(y > 0) {
         rs = '0' + rs;
         y /= 10;
-    }
+    }*/
     return rs;
-    */
 }
 
 bool copyFile(const char *SRC, const char* DEST) {
